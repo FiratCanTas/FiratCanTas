@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, Redux Toolkit, JavaScript ES6+, Responsive Design, Asp.Net, SQL Server**
+- 💬 Ask me about **React, Redux Toolkit, JavaScript ES6+, Responsive Design, Asp.Net Core, SQL Server**
 
 - 📫 How to reach me **firatcantass@gmail.com**
 
